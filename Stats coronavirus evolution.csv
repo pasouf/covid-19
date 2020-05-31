@@ -1,4 +1,4 @@
-Date,Cas confirmés,Hospitalisations,Guérisons,En réanimation,Décès en hopital,Cas totaux EHPAD et EMS,Cas confirmés EHPAD et EMS,Décès EHPAD et EMS
+Date,Cas confirmés,Hospitalisations,Nvx hospitalisés,Guérisons,En réanimation,Nvx en réanimation,Décès en hopital,Cas totaux EHPAD et EMS,Cas confirmés EHPAD et EMS,Décès EHPAD et EMS
 24/01/2020,3,,,,,,,
 25/01/2020,,,,,,,,
 26/01/2020,,,,,,,,
@@ -122,3 +122,8 @@ Date,Cas confirmés,Hospitalisations,Guérisons,En réanimation,Décès en hopit
 23/05/2020,250,-205,338,-36,43,0,0,0
 24/05/2020,115,7,70,-10,35,0,0,0
 25/05/2020,358,-387,582,-46,90,0,0,0
+26/05/2020,276,-534,680,-54,83,-114,382,-10
+27/05/2020,191,-584,705,-54,65,0,0,1
+28/05/2020,3325,-372,607,-72,66,0,0,0
+29/05/2020,597,-613,612,-68,61,0,38,-9
+30/05/2020,1828,-315,465,-36,57,0,0,0
