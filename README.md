@@ -15,5 +15,5 @@ https://www.insee.fr/fr/statistiques/4488433
 * _Comparaison du nombre de décès par département entre 2018 et 2020 (du 1er mars au 4 mai):_
 https://www.insee.fr/fr/statistiques/4487876?sommaire=4487854
 
-* _Historique du nombre de tests PCR réalisés depuis le 13 mai 2020:
+* _Historique du nombre de tests PCR réalisés depuis le 13 mai 2020:_
 https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/
